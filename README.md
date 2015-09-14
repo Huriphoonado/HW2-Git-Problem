@@ -1,25 +1,26 @@
 ##Homework 2 Git Problem
 
 Willie Payne
+
 CSCI 5828 – Spring 2015
 
-First Edit
-Second Edit
-Third Edit
-Fourth Edit
-Fifth Edit
-Sixth Edit
-Seventh Edit
-Eighth Edit
-Ninth Edit
-Tenth Edit
-11th Edit
-12th Edit
-13th Edit
-14th Edit
+* First Edit
+* Second Edit
+* Third Edit
+* Fourth Edit
+* Fifth Edit
+* Sixth Edit
+* Seventh Edit
+* Eighth Edit
+* Ninth Edit
+* Tenth Edit
+* 11th Edit
+* 12th Edit
+* 13th Edit
+* 14th Edit
 
 -----------------------------------
-
+```
 0. git init
 0. git add README.md
 0. git commit -m "Initial Commit"
@@ -91,3 +92,4 @@ Tenth Edit
 14. (Added 14th Edit, my name, and this file)
 14. git add README.md
 14. git commit -m "14th Commit"
+```
